@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\yaroslav khutornoy\documents\visual studio 2012\projects\parallel_openmp\parallel_openmp\main.cpp(31): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\yaroslav khutornoy\documents\visual studio 2012\projects\parallel_openmp\parallel_openmp\main.cpp(71): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav khutornoy\documents\visual studio 2012\projects\parallel_openmp\parallel_openmp\main.cpp(100): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav khutornoy\documents\visual studio 2012\projects\parallel_openmp\parallel_openmp\main.cpp(103): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\yaroslav khutornoy\documents\visual studio 2012\projects\parallel_openmp\parallel_openmp\main.cpp(156): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yaroslav khutornoy\documents\visual studio 2012\projects\parallel_openmp\parallel_openmp\main.cpp(171): warning C4018: <: несоответствие типов со знаком и без знака
+  PARALLEL_OpenMP.vcxproj -> C:\Users\Yaroslav Khutornoy\Documents\Visual Studio 2012\Projects\PARALLEL_OpenMP\Debug\PARALLEL_OpenMP.exe

@@ -1,0 +1,5100 @@
+Gramma: 
+
+а
+в
+том
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+а
+заодно
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+а
+когда
+он
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+абрикосовая
+дала
+обильную
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+абрикосовой
+реь
+эта
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+александрийского
+на
+блестяще
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+александрови
+сообщил
+поэту
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+анналов
+где
+говорится
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+антирелигиозную
+поэму
+эту
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+бежать
+с
+патриарших
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+без
+оглядки
+берлиоз
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+бездомный
+главное
+действующее
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+берлиоз
+же
+хотел
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+берлиоз
+тоскливо
+оглянулся
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+берлиоза
+он
+внезапно
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+берлиоза
+охватил
+необоснованный
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+берлиоза
+складывалась
+так
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+берлиозом
+то
+он
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+блестяще
+образованного
+иосифа
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+бодро
+нус
+итак
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+более
+побледнев
+он
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+большую
+антирелигиозную
+поэму
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+бронной
+тут
+приклюилась
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+бросить
+все
+к
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+был
+еловеком
+наитанным
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+был
+иисус
+плох
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+было
+и
+длинный
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+было
+он
+попытался
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+было
+сердце
+шалит
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+быть
+но
+это
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+воздухе
+запахло
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+главе
+й
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+глазах
+его
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+его
+изображении
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+й
+книге
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+кисловодск
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+нем
+кроме
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+оень
+короткий
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+плеах
+узок
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+сажень
+но
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+своей
+реи
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+смятении
+подумал
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+том
+каков
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+в
+том
+то
+
+All gramms number: 510
+Compare number: 2
+Probably: 0.392157%
+--------------------------------
+Gramma: 
+
+вернулось
+но
+с
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+вида
+на
+маленькой
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+видно
+гражданин
+не
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+влево
+и
+вправо
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+внезапно
+перестал
+икать
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+вовсе
+не
+существовало
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+воздух
+сгустился
+перед
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+воздуха
+прозраный
+гражданин
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+воздухе
+запахло
+парикмахерской
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+воздушный
+же
+пиджаок
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+вопросом
+по
+которому
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+воскликнул
+редактор
+ты
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+вот
+теперь
+редактор
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+впоследствии
+узнали
+шла
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+вправо
+тут
+ужас
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+вроде
+галлюцинации
+было
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+вроде
+лекции
+об
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+все
+к
+ерту
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+все
+конилось
+марево
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+все
+рассказы
+о
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+всю
+поэму
+приходилось
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+вторая
+странность
+касающаяся
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+выдумки
+самый
+обыкновенный
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+выскоила
+из
+сердца
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+вытаращил
+глаза
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+вытер
+лоб
+платком
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+галлюцинации
+было
+он
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+где
+говорится
+о
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+главе
+й
+знаменитых
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+главное
+действующее
+лицо
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+главное
+не
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+глаза
+а
+когда
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+глаза
+и
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+глазах
+его
+еще
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+глумливая
+жизнь
+берлиоза
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+говорится
+о
+казни
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+головке
+жокейский
+картузик
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+гражданин
+не
+касаясь
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+гражданин
+престранного
+вида
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+гражданин
+ростом
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+даже
+тото
+вроде
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+дала
+обильную
+желтую
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+действующее
+лицо
+своей
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+дело
+в
+том
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+длинный
+сквозь
+которого
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+для
+оередной
+книжки
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+до
+того
+овладел
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+довольно
+бодро
+нус
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+доказать
+поэту
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+древних
+историков
+например
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+дрожали
+однако
+постепенно
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+его
+еще
+прыгала
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+его
+изображении
+полуился
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+его
+напугало
+он
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+его
+стукнуло
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+его
+таланта
+или
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+едва
+удар
+от
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+еловеком
+наитанным
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ему
+захотелось
+тотас
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ерными
+красками
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ерт
+воскликнул
+редактор
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ерту
+и
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+есть
+иисуса
+оень
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+есть
+не
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+еще
+более
+побледнев
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+еще
+прыгала
+тревога
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ею
+редактора
+нисколько
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+жары
+не
+сделался
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+же
+бежать
+с
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+же
+пиджаок
+гражданин
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+же
+хотел
+доказать
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+желтую
+пену
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+живой
+хотя
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+жизнь
+берлиоза
+складывалась
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+жокейский
+картузик
+клетатый
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+журнала
+большую
+антирелигиозную
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+заказал
+поэту
+для
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+закрыл
+глаза
+а
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+заметить
+глумливая
+жизнь
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+заметить
+то
+редактор
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+заново
+и
+вот
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+заодно
+и
+тупая
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+запахло
+парикмахерской
+напившись
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+засевшей
+в
+нем
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+захотелось
+тотас
+же
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+земли
+каался
+перед
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+знаешь
+иван
+у
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+знаменитого
+филона
+александрийского
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+знаменитых
+тацитовых
+анналов
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+знойный
+воздух
+сгустился
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+в
+воздухе
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+в
+кисловодск
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+в
+оень
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+в
+смятении
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+влево
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+вот
+теперь
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+вправо
+тут
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+длинный
+сквозь
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+на
+мгновенье
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+не
+привлекающий
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+о
+том
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+оень
+умело
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+произнеся
+довольно
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+руки
+дрожали
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+соткался
+из
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+спиной
+к
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+тем
+не
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+то
+все
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+тупая
+игла
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+тут
+знойный
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+уселись
+на
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+и
+физиономия
+прошу
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+иван
+николаеви
+соинил
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+иван
+у
+меня
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ивана
+николаевиа
+изобразительная
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+игла
+выскоила
+из
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+иглой
+засевшей
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+из
+сердца
+фу
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+из
+этого
+воздуха
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+изображении
+полуился
+ну
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+изобразительная
+ли
+сила
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+иисус
+в
+его
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+иисус
+плох
+ли
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+иисуса
+есть
+не
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+иисуса
+обнаруживая
+солидную
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+иисуса
+оень
+ерными
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+иисусато
+этого
+как
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+иисусе
+с
+тем
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+иисусе
+христе
+дело
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+икать
+расплатились
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+икать
+сердце
+его
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+или
+полное
+незнакомство
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+именно
+подвело
+ивана
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+иное
+как
+позднейшая
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+иосифа
+флавия
+никогда
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+исез
+а
+заодно
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+историков
+например
+на
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+итак
+повел
+реь
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+итал
+поэту
+нето
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+их
+открыл
+увидел
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+й
+знаменитых
+тацитовых
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+й
+книге
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+к
+бронной
+тут
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+к
+ерту
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+к
+необыкновенным
+явлениям
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+к
+пруду
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+к
+себе
+персонаж
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+к
+сожалению
+ею
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+каался
+перед
+ним
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+казни
+иисуса
+есть
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+как
+впоследствии
+узнали
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+как
+живой
+хотя
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+как
+линости
+вовсе
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+как
+позднейшая
+поддельная
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+каков
+был
+иисус
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+картузик
+клетатый
+кургузый
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+касающаяся
+одного
+берлиоза
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+касаясь
+земли
+каался
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+кисловодск
+и
+тут
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+клетатый
+исез
+а
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+клетатый
+кургузый
+воздушный
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+книге
+в
+главе
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+книжки
+журнала
+большую
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+когда
+он
+их
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+конилось
+марево
+растворилось
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+короткий
+срок
+но
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+которого
+видно
+гражданин
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+которому
+он
+собирался
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+красками
+и
+тем
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+кроме
+того
+берлиоза
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+кудато
+провалилось
+потом
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+кургузый
+воздушный
+же
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+лекции
+об
+иисусе
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ли
+а
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ли
+сила
+его
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ли
+хорош
+ли
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+линости
+вовсе
+не
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+литераторы
+немедленно
+наали
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+лицо
+своей
+поэмы
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+лицом
+к
+пруду
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+лоб
+платком
+подумал
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+маленькой
+головке
+жокейский
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+марево
+растворилось
+клетатый
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+мгновенье
+кудато
+провалилось
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+между
+проим
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+менее
+всю
+поэму
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+меня
+сейас
+едва
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+место
+в
+й
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+миф
+надо
+заметить
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+михаил
+александрови
+сообщил
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+мнению
+редактора
+писать
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+мной
+этого
+никогда
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+может
+быть
+но
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+на
+блестяще
+образованного
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+на
+древних
+историков
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+на
+знаменитого
+филона
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+на
+маленькой
+головке
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+на
+мгновенье
+кудато
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+на
+свете
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+на
+скамейке
+лицом
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+наали
+икать
+расплатились
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+надо
+заметить
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+наитанным
+и
+оень
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+напившись
+литераторы
+немедленно
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+например
+на
+знаменитого
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+напугало
+он
+побледнел
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+не
+было
+сердце
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+не
+в
+том
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+не
+касаясь
+земли
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+не
+менее
+всю
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+не
+может
+быть
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+не
+понимая
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+не
+привлекающий
+к
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+не
+привык
+еще
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+не
+сделался
+даже
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+не
+существовало
+на
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+не
+то
+иное
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+не
+удовлетворил
+оертил
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+не
+упоминавших
+о
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+незнакомство
+с
+вопросом
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+неимоверно
+и
+физиономия
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+нем
+кроме
+того
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+нем
+простые
+выдумки
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+немедленно
+наали
+икать
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+необоснованный
+но
+столь
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+необыкновенным
+явлениям
+он
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+нето
+вроде
+лекции
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ни
+словом
+не
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+никогда
+не
+было
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+никогда
+ни
+словом
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+николаеви
+соинил
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+николаевиа
+изобразительная
+ли
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ним
+и
+влево
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ним
+и
+соткался
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+нисколько
+не
+удовлетворил
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+но
+в
+глазах
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+но
+в
+плеах
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+но
+иисус
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+но
+к
+сожалению
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+но
+с
+тупой
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+но
+столь
+сильный
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+но
+это
+увы
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ну
+совершенно
+как
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+нус
+итак
+повел
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+о
+казни
+иисуса
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+о
+нем
+простые
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+о
+существовании
+иисуса
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+о
+том
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+об
+иисусе
+с
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+об
+иисусе
+христе
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+обильную
+желтую
+пену
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+обмахнулся
+платком
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+обнаруживая
+солидную
+эрудицию
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+образованного
+иосифа
+флавия
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+обыкновенный
+миф
+надо
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+овладел
+берлиозом
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+оглядки
+берлиоз
+тоскливо
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+оглянулся
+не
+понимая
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+однако
+постепенно
+он
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+одного
+берлиоза
+он
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+оень
+ерными
+красками
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+оень
+короткий
+срок
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+оень
+умело
+указывал
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+оередной
+книжки
+журнала
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+оертил
+бездомный
+главное
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+он
+внезапно
+перестал
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+он
+вытаращил
+глаза
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+он
+закрыл
+глаза
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+он
+их
+открыл
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+он
+не
+привык
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+он
+побледнел
+вытер
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+он
+попытался
+усмехнуться
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+он
+собирался
+писать
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+он
+успокоился
+обмахнулся
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+основную
+ошибку
+поэта
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+от
+жары
+не
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+открыл
+увидел
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+охватил
+необоснованный
+но
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ошибку
+поэта
+трудно
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+парикмахерской
+напившись
+литераторы
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+патриарших
+без
+оглядки
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+пену
+и
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+перед
+ним
+и
+
+All gramms number: 510
+Compare number: 2
+Probably: 0.392157%
+--------------------------------
+Gramma: 
+
+перестал
+икать
+сердце
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+переутомился
+пожалуй
+пора
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+персонаж
+берлиоз
+же
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+пиджаок
+гражданин
+ростом
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+писать
+заново
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+писать
+но
+иисус
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+питьем
+абрикосовой
+реь
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+платком
+и
+произнеся
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+платком
+подумал
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+плеах
+узок
+худ
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+плох
+ли
+хорош
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+по
+которому
+он
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+по
+мнению
+редактора
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+побледнев
+он
+вытаращил
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+побледнел
+вытер
+лоб
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+повел
+реь
+прерванную
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+подвело
+ивана
+николаевиа
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+подеркнуть
+основную
+ошибку
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+подумал
+то
+это
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+подумал
+этого
+не
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+пожалуй
+пора
+бросить
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+позднейшая
+поддельная
+вставка
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+полное
+незнакомство
+с
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+полуился
+ну
+совершенно
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+понимая
+то
+его
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+попытался
+усмехнуться
+но
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+пора
+бросить
+все
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+постепенно
+он
+успокоился
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+потом
+вернулось
+но
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+поэму
+иван
+николаеви
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+поэму
+приходилось
+по
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+поэму
+эту
+поэму
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+поэмы
+то
+есть
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+поэта
+трудно
+сказать
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+поэту
+для
+оередной
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+поэту
+между
+проим
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+поэту
+нето
+вроде
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+поэту
+то
+главное
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+прерванную
+питьем
+абрикосовой
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+престранного
+вида
+на
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+привлекающий
+к
+себе
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+привык
+еще
+более
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+приклюилась
+вторая
+странность
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+приходилось
+по
+мнению
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+провалилось
+потом
+вернулось
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+прозраный
+гражданин
+престранного
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+произнеся
+довольно
+бодро
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+проим
+и
+о
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+простые
+выдумки
+самый
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+прошу
+заметить
+глумливая
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+пруду
+и
+спиной
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+прыгала
+тревога
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+расплатились
+и
+уселись
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+рассказы
+о
+нем
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+растворилось
+клетатый
+исез
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+редактор
+был
+еловеком
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+редактор
+заказал
+поэту
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+редактор
+итал
+поэту
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+редактор
+ты
+знаешь
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+редактора
+нисколько
+не
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+редактора
+писать
+заново
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+реи
+на
+древних
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+реь
+прерванную
+питьем
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+реь
+эта
+как
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ростом
+в
+сажень
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+руки
+дрожали
+однако
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+с
+вопросом
+по
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+с
+патриарших
+без
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+с
+тем
+тобы
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+с
+тупой
+иглой
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+сажень
+но
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+самый
+обыкновенный
+миф
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+свете
+и
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+своей
+поэмы
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+своей
+реи
+на
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+сгустился
+перед
+ним
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+сделался
+даже
+тото
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+себе
+персонаж
+берлиоз
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+сейас
+едва
+удар
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+сердца
+фу
+ты
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+сердце
+его
+стукнуло
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+сердце
+шалит
+я
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+сила
+его
+таланта
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+сильный
+страх
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+сказать
+то
+именно
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+скамейке
+лицом
+к
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+сквозь
+которого
+видно
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+складывалась
+так
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+словом
+не
+упоминавших
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+смятении
+подумал
+этого
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+со
+мной
+этого
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+собирался
+писать
+но
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+совершенно
+как
+живой
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+сожалению
+ею
+редактора
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+соинил
+и
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+солидную
+эрудицию
+михаил
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+сообщил
+поэту
+между
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+соткался
+из
+этого
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+спиной
+к
+бронной
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+срок
+но
+к
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+столь
+сильный
+страх
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+странность
+касающаяся
+одного
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+страх
+то
+ему
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+стукнуло
+и
+на
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+существовало
+на
+свете
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+существовании
+иисуса
+обнаруживая
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+так
+то
+к
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+таланта
+или
+полное
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+тацитовых
+анналов
+где
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+тем
+не
+менее
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+тем
+тобы
+подеркнуть
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+теперь
+редактор
+итал
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+все
+конилось
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+все
+рассказы
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+главное
+не
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+его
+напугало
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+ему
+захотелось
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+есть
+иисуса
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+иисусато
+этого
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+именно
+подвело
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+иное
+как
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+к
+необыкновенным
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+место
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+он
+закрыл
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+редактор
+был
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+редактор
+заказал
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+то
+место
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+то
+это
+со
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+тобы
+подеркнуть
+основную
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+того
+берлиоза
+охватил
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+того
+овладел
+берлиозом
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+том
+каков
+был
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+том
+то
+иисусато
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+том
+то
+редактор
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+том
+то
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+тоскливо
+оглянулся
+не
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+тотас
+же
+бежать
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+тото
+вроде
+галлюцинации
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+тревога
+и
+руки
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+трудно
+сказать
+то
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+тупая
+игла
+выскоила
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+тупой
+иглой
+засевшей
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+тут
+знойный
+воздух
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+тут
+приклюилась
+вторая
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+тут
+ужас
+до
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ты
+ерт
+воскликнул
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ты
+знаешь
+иван
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+у
+меня
+сейас
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+увидел
+то
+все
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+увы
+было
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+удар
+от
+жары
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+удовлетворил
+оертил
+бездомный
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+ужас
+до
+того
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+узнали
+шла
+об
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+узок
+худ
+неимоверно
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+указывал
+в
+своей
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+умело
+указывал
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+упоминавших
+о
+существовании
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+уселись
+на
+скамейке
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+усмехнуться
+но
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+успокоился
+обмахнулся
+платком
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+физиономия
+прошу
+заметить
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+филона
+александрийского
+на
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+флавия
+никогда
+ни
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+фу
+ты
+ерт
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+хорош
+ли
+а
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+хотел
+доказать
+поэту
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+хотя
+и
+не
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+христе
+дело
+в
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+худ
+неимоверно
+и
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+шалит
+я
+переутомился
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+шла
+об
+иисусе
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+эрудицию
+михаил
+александрови
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+эта
+как
+впоследствии
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+это
+со
+мной
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+это
+увы
+было
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+этого
+воздуха
+прозраный
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+этого
+как
+линости
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+этого
+не
+может
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+этого
+никогда
+не
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+эту
+поэму
+иван
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+я
+переутомился
+пожалуй
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------
+Gramma: 
+
+явлениям
+он
+не
+
+All gramms number: 510
+Compare number: 1
+Probably: 0.196078%
+--------------------------------

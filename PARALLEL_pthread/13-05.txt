@@ -1,0 +1,303 @@
+#include <iostream>
+#include <algorithm>
+#include <vector>
+#include <set>
+#include <string>
+#include <fstream>
+#include <sstream>
+#include <cctype>
+#include <ctime>
+#include <thread> 
+#include <mutex>
+
+using namespace std;
+
+std::mutex mtx; 
+
+vector<string>* CreateText(string fileName)
+{
+	vector<string>* vec_text = new vector<string>;
+	string in_word;
+
+	ifstream file(fileName);	
+	if (!file.is_open())
+	{
+		cout << "File not open" << endl;
+		return nullptr;
+	}
+
+	file.seekg(0, ios::end); 
+	int length = file.tellg(); 
+	if ( length == 0 )
+	{
+		cout << "File is empty" << endl;
+		return nullptr;
+	}
+	file.seekg(0, ios::beg); 
+
+
+	while (file >> in_word)
+	{
+		string out_word = "";
+
+		for (char& symbol : in_word)
+		{
+			if (!iswalpha((unsigned char)symbol)) 
+			{
+				continue;
+			}
+			symbol = tolower(symbol);
+			out_word.push_back(symbol);
+		}
+
+		vec_text->push_back(out_word);
+	}
+
+	return vec_text;
+}
+
+//void ParallelCreateGramms(vector<string>* vec_text, int gramma_size, int begin, int end, vector<vector<string> > &gramma)
+//{
+//
+//	if( !vec_text->size() || gramma_size < 1)
+//	{
+//		cout << "Input text vector or size of gramma is null" << endl;
+//		return;
+//	}
+//
+//	//for (int i = 0; i < vec_text->size() - gramma_size + 1; i++)
+//	for (int i = begin; i < end; i++)
+//	{
+//		vector<string> vec_temp;
+//
+//		for (int j = i; j < i + gramma_size; j++)
+//		{	
+//			vec_temp.push_back(vec_text->at(j));
+//		}
+//
+//		gramma.push_back(vec_temp);
+//	}
+//
+//	//sort (vec_vec_gramma->begin(), vec_vec_gramma->end());  
+//	//vector<vector<string> >::iterator it;
+//	//it = unique (vec_vec_gramma->begin(), vec_vec_gramma->end()); 
+//	//vec_vec_gramma->resize( distance(vec_vec_gramma->begin(),it) );
+//}
+
+void ParallelCreateGramms(vector<string>* vec_text, int gramma_size, int begin, int end, vector<vector<string> >* gramma)
+{
+	
+	//if( !vec_text->size() || gramma_size < 1)
+	//{
+	//	cout << "Input text vector or size of gramma is null" << endl;
+	//	return;
+	//}
+
+	//for (int i = 0; i < vec_text->size() - gramma_size + 1; i++)
+	for (int i = begin; i < end; i++)
+	{
+		vector<string> vec_temp;
+
+		for (int j = i; j < i + gramma_size; j++)
+		{	
+			vec_temp.push_back(vec_text->at(j));
+		}
+
+		//mtx.lock();
+		//gramma->push_back(vec_temp);
+		//mtx.unlock();
+	}
+		
+
+	//sort (vec_vec_gramma->begin(), vec_vec_gramma->end());  
+	//vector<vector<string> >::iterator it;
+	//it = unique (vec_vec_gramma->begin(), vec_vec_gramma->end()); 
+	//vec_vec_gramma->resize( distance(vec_vec_gramma->begin(),it) );
+	return;
+}
+
+
+
+int Compare(vector<string>* vec_gramma, vector<string>* vec_text)
+{
+	if (vec_text->size() < vec_gramma->size())
+	{
+		cout << "Text size is smaller than gramma" << endl;
+		return 0;
+	}
+
+	int compare_number = 0;
+
+	for (int i = vec_gramma->size() - 1; i < vec_text->size(); i++)
+	{
+		bool equ = true;
+		for (int j = 0; j <= vec_gramma->size() - 1; j++)
+		{
+			string string_text, string_gramma;
+			string_text = vec_text->at(i - j);
+			string_gramma = vec_gramma->at(vec_gramma->size() - 1 - j);
+
+			if (string_text != string_gramma) 
+			{
+				equ = false;
+				break;
+			}
+		}
+
+		if (equ == true)
+		{
+			compare_number++;
+		}
+	}
+	
+	return compare_number;
+}
+
+
+
+
+int main(int argc, char *argv[])
+{
+	setlocale(LC_ALL, "rus");
+
+	unsigned int start_clock = clock();
+
+	vector<string> *Text = CreateText("data.txt");
+	if (Text == nullptr)
+	{
+		delete Text;
+        return 1;
+	}
+
+	//vector<vector<string> > Gramms;
+
+	vector<vector<string> > *Gramms = new vector<vector<string> >;
+
+	int NumberOfThreads = 4;
+	int step = Text->size() / NumberOfThreads; //?
+	int begin = 0;
+	int end = step;
+	cout << "Text size = " << Text->size() << endl;
+	cout << "STEP = " << step <<endl;
+
+	vector<thread*> vecThreads;
+
+	for (int s = 1; s <= NumberOfThreads; s++)
+		{
+			auto th = new std::thread(ParallelCreateGramms, Text, 3, begin, end, std::ref(Gramms));		
+			vecThreads.push_back(th);
+			
+			begin = end;
+			if (s == NumberOfThreads)
+			{
+				end = Text->size() - 2;
+			}
+			else
+			{
+				end = end + step;
+			}		
+		}
+
+	cout <<"final" << endl;
+
+
+	for (auto &th : vecThreads)
+		{
+			th->join();
+			delete th;
+		}
+
+	vecThreads.clear();
+
+
+
+
+	unsigned int end_clock = clock();
+
+
+	cout << Gramms->size() << endl;
+
+
+	//for(int i=0; i < Gramms->size(); i++)
+	//{
+	//	for(int j=0; j<3; j++)
+	//	{
+	//	cout << Gramms->at(i).at(j) << endl;
+	//	}
+	//	cout << "--------------------------------" << endl;
+	//}
+
+
+
+
+
+
+
+
+
+
+	//vector<vector<string> > *Gramms = ParallelCreateGramms(Text, 3);
+	//if (Gramms == nullptr)
+	//{
+	//	delete Gramms;
+ //       return 1;
+	//}
+
+	//ofstream fout("result.txt");
+	//if (!fout.is_open())
+	//{
+	//	cout << "Файл не может быть открыт!\n";
+	//}
+
+	//for (int g = 0; g < Gramms->size(); g++)
+	//{
+	//	int compare_number = Compare(&Gramms->at(g), Text);
+	//	int all_gramms_number = Gramms->size();
+	//	float prob = ((float)compare_number / (float)all_gramms_number) * 100;
+
+	//	fout << "Gramma: " << endl << endl;
+	//	for(int c=0; c<3; c++)
+	//	{
+	//		fout << Gramms->at(g).at(c) << endl;
+	//	}
+
+	//	fout << endl;
+	//	fout << "All gramms number: " << all_gramms_number << endl;
+	//	fout << "Compare number: " << compare_number << endl;
+	//	fout << "Probably: " << prob << endl;
+	//	fout << "--------------------------------" << endl;
+	//}
+
+	//fout.close();
+
+	//cout<< "Ready!" <<endl;
+
+	//delete Text;
+	//delete Gramms;
+
+
+	unsigned int time = (end_clock - start_clock);
+	cout << "Time = " << time << endl;  
+
+	return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+	//for(int i=0; i < Gramms->size(); i++)
+	//{
+	//	for(int j=0; j<3; j++)
+	//	{
+	//	cout << Gramms->at(i).at(j) << endl;
+	//	}
+	//	cout << "--------------------------------" << endl;
+	//}

@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.cpp(26): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+main.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(95): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(98): warning C4018: <=: несоответствие типов со знаком и без знака
+main.cpp(146): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(161): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Создание кода завершено
+  PARALELL_serial.vcxproj -> C:\Users\Yaroslav Khutornoy\Documents\Visual Studio 2012\Projects\PARALELL_serial\Release\PARALELL_serial.exe

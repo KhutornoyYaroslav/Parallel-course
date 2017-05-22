@@ -1,0 +1,6 @@
+﻿  main.cpp
+main.cpp(30): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+main.cpp(131): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+main.cpp(177): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+main.cpp(193): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  PARALLEL_pthread.vcxproj -> c:\users\yaroslav khutornoy\documents\visual studio 2012\Projects\PARALLEL_pthread\x64\Debug\PARALLEL_pthread.exe
